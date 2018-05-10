@@ -30,6 +30,7 @@ MiXin研究资料（不断更新）：
 - MiXin语音分享稿：https://www.jianshu.com/p/1fd4e76cfba9
 
 - MiXin机器人开发Demo：https://github.com/myrual/mixin_client_demo
+- 开发者接入MiXinNetwork说明：https://gist.github.com/myrual/64769acd3d09e9fd3ac37636d899f844
 - MiXin官方仓库：https://github.com/MixinMessenger
 - MiXin开发者注册：https://developers.mixin.one/
 - MiXinAPI文档:https://developer.mixin.zone/
