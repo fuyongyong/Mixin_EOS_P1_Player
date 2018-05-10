@@ -33,5 +33,5 @@ MiXin研究资料（不断更新）：
 - 开发者接入MiXinNetwork说明：https://gist.github.com/myrual/64769acd3d09e9fd3ac37636d899f844
 - MiXin官方仓库：https://github.com/MixinMessenger
 - MiXin开发者注册：https://developers.mixin.one/
-- MiXinAPI文档:https://developer.mixin.zone/
+- MiXinAPI文档: https://developers.mixin.one/api
 - MiXinNodejs资料：https://github.com/virushuo/
