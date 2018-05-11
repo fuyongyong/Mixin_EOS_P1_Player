@@ -28,6 +28,6 @@ home_uri在机器人中的入口是在这里：
 
 弹出来的这个地址就是home_uri页面中的内容：
 
-![home_uri_interface2](http://static.zybuluo.com/hitchhacker/ovs0dye8603sdlk14vs7ovrp/home_uri_interface2.jpeg)
+![home_uri_interface2](http://static.zybuluo.com/hitchhacker/fso25zcp7xgu1meeyx40bxht/home_uri_interface2.jpeg)
 
 
