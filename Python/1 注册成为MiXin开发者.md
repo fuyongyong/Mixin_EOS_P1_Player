@@ -14,11 +14,11 @@
 
 ## 2.2 填写注册App需要的信息。
 
-- **app的名字，2-64个字符：**
+- **（1）app的名字，2-64个字符：**
 
 ![app_name](http://static.zybuluo.com/hitchhacker/rqmjrzgesvaq7dpmfbd7kvfs/app_name.png)
 
-- **app小程序的地址：**
+- **（2）app小程序的地址：**
 
 ![app_home_uri](http://static.zybuluo.com/hitchhacker/u68q9v1qbaqgcge97rl3mlcm/app_home_uri.png)
 
@@ -30,14 +30,14 @@ home_uri在机器人中的入口是在这里：
 
 ![home_uri_interface2](http://static.zybuluo.com/hitchhacker/fso25zcp7xgu1meeyx40bxht/home_uri_interface2.jpeg)
 
-- **授权后跳转的地址：**
+- **（3）授权后跳转的地址：**
 
 ![oauth_path](http://static.zybuluo.com/hitchhacker/tfhp4roq7ah5su44fyw97lzm/oath_path.png)
 
 引导用户扫描你app的二维码后，跳转到的地址就是这个。可以设置为你的服务器「ip:端口」，例如你设置oauth path为「http://11.11.11.11:3355」 ，则客户在扫码后即会跳转到 http://11.11.11.11:3355/?code=[返回的code] 这个地址。
 
-- **然后输入一个简短的app介绍**
+- **（4）然后输入一个简短的app介绍**
 
-- **再搞个图标**
+- **（5）再搞个图标**
 
-- **点击Submit，Okay！你的第一个MiXin App就注册好了！**
+- **（6）点击Submit，Okay！你的第一个MiXin App就注册好了！**
