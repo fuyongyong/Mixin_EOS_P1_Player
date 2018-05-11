@@ -31,5 +31,7 @@ home_uri在机器人中的入口是在这里：
 ![home_uri_interface2](http://static.zybuluo.com/hitchhacker/fso25zcp7xgu1meeyx40bxht/home_uri_interface2.jpeg)
 
 - **授权后跳转的地址：**
+
 ![oauth_path](http://static.zybuluo.com/hitchhacker/tfhp4roq7ah5su44fyw97lzm/oath_path.png)
+
 引导用户扫描你app的二维码后，跳转到的地址就是这个。可以设置为你的服务器「ip:端口」，例如你设置oauth path为「http://11.11.11.11:3355」 ，则客户在扫码后即会跳转到 http://11.11.11.11:3355/?code=[返回的code] 这个地址。
