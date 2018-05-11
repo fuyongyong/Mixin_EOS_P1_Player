@@ -8,8 +8,20 @@
 
 # 2.开发者使用注册的mixin账户创建App并进行配置
 
-访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
+(1)访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
 
 ![mixin_interface](http://static.zybuluo.com/hitchhacker/294v071s3nz8enj371zcotyg/mixin_interface.jpeg)
 
-zzz
+(2)填写注册App需要的信息。
+
+- app的名字，2-64个字符：
+![app_name](http://static.zybuluo.com/hitchhacker/4myn9t6wpmcx9h1xg4v25ib3/app_name.png)
+
+- app小程序的地址：
+![app_home_uri](http://static.zybuluo.com/hitchhacker/u68q9v1qbaqgcge97rl3mlcm/app_home_uri.png)
+
+home_uri在机器人中的入口是在这里：
+![app_home_uri_interface1](http://static.zybuluo.com/hitchhacker/egucec7ij8mir9rjw0m2ilcq/home_uri_interface.jpeg)
+
+弹出来的这个地址就是home_uri页面中的内容：
+![app_home_uri_interface2](http://static.zybuluo.com/hitchhacker/ovs0dye8603sdlk14vs7ovrp/home_uri_interface2.jpeg）
