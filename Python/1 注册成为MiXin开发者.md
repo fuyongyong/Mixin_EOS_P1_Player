@@ -16,7 +16,7 @@
 
 - app的名字，2-64个字符：
 
-![app_name](http://static.zybuluo.com/hitchhacker/4myn9t6wpmcx9h1xg4v25ib3/app_name.png)
+![app_name](http://static.zybuluo.com/hitchhacker/rqmjrzgesvaq7dpmfbd7kvfs/app_name.png)
 
 - app小程序的地址：
 
