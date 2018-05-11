@@ -4,5 +4,9 @@
 
 [https://mixin.one](https://mixin.one)
 
-如果要更详细的指导请看 **官印** 的这篇文章。
+如果要更详细的指导请看 **官印** 的这篇文章：[MIXIN下载指南](https://www.jianshu.com/p/65b12a44ad53)
+
+# 2.开发者使用注册的mixin账户创建App并进行配置
+
+访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
 
