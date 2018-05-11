@@ -11,3 +11,5 @@
 访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
 
 ![mixin_interface](http://static.zybuluo.com/hitchhacker/et9v32tssrzeq638h93z1n0q/mixin_interface.jpeg)
+
+zzz
