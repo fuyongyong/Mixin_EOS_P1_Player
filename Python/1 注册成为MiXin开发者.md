@@ -8,11 +8,11 @@
 
 # 2.开发者使用注册的mixin账户创建App并进行配置
 
-## (1)访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
+## 2.1 访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
 
 ![mixin_interface](http://static.zybuluo.com/hitchhacker/294v071s3nz8enj371zcotyg/mixin_interface.jpeg)
 
-## (2)填写注册App需要的信息。
+## 2.2 填写注册App需要的信息。
 
 - **app的名字，2-64个字符：**
 
@@ -30,4 +30,6 @@ home_uri在机器人中的入口是在这里：
 
 ![home_uri_interface2](http://static.zybuluo.com/hitchhacker/fso25zcp7xgu1meeyx40bxht/home_uri_interface2.jpeg)
 
-
+- **授权后跳转的地址：**
+![oauth_path](http://static.zybuluo.com/hitchhacker/tfhp4roq7ah5su44fyw97lzm/oath_path.png)
+引导用户扫描你app的二维码后，跳转到的地址就是这个。可以设置为你的服务器「ip:端口」，例如「http://11.11.11.11:3355」，客户在扫码后即会跳转到http://11.11.11.11:3355/?code=[返回的code] 这样的地址
