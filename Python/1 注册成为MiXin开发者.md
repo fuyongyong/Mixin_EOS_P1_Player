@@ -8,11 +8,11 @@
 
 # 2.开发者使用注册的mixin账户创建App并进行配置
 
-##(1)访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
+## (1)访问 https://developers.mixin.one/dashboard ， 使用Mixin App的摄像头扫描二维码登陆。
 
 ![mixin_interface](http://static.zybuluo.com/hitchhacker/294v071s3nz8enj371zcotyg/mixin_interface.jpeg)
 
-##(2)填写注册App需要的信息。
+## (2)填写注册App需要的信息。
 
 - **app的名字，2-64个字符：**
 
