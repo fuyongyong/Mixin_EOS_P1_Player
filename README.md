@@ -39,3 +39,4 @@ MiXin研究资料（不断更新）：
 
 - MiXinNodejs资料（霍炬）：https://github.com/virushuo/
 - MiXinJAVA资料（七哥）：https://github.com/qige-one/mixin_java_sdk
+- Go（官方）: https://github.com/MixinMessenger/bot-api-go-client
