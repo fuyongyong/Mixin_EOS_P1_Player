@@ -3,7 +3,7 @@ MiXin开发爱好者的聚集地🆒
 
 Prepare文件夹里包括MiXin开发要做的准备工作。
 
-Python文件夹里是基于Python的MiXin APP开发，基于Python3。目前参与者有：**游民梁超、谢健、李林、李大狗**。
+Python文件夹里是基于Python的MiXin APP开发，基于Python3。目前参与者有：**游民梁超、谢健、李林、李大狗、七哥、姜岳**。
 
 Nodejs文件夹里是基于Nodejs的MiXin APP开发。目前参与者有：**陈扬帆、Max**。
 
@@ -34,4 +34,6 @@ MiXin研究资料（不断更新）：
 - MiXin官方仓库：https://github.com/MixinMessenger
 - MiXin开发者注册：https://developers.mixin.one/
 - MiXinAPI文档: https://developers.mixin.one/api
-- MiXinNodejs资料：https://github.com/virushuo/
+=============================
+- MiXinNodejs资料（霍炬）：https://github.com/virushuo/
+- MiXinJAVA资料（七哥）：https://github.com/qige-one/mixin_java_sdk
