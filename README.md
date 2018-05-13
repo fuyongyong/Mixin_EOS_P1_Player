@@ -35,7 +35,7 @@ MiXin研究资料（不断更新）：
 - MiXin开发者注册：https://developers.mixin.one/
 - MiXinAPI文档: https://developers.mixin.one/api
 
-=============================
+=============================================================
 
 - MiXinNodejs资料（霍炬）：https://github.com/virushuo/
 - MiXinJAVA资料（七哥）：https://github.com/qige-one/mixin_java_sdk
