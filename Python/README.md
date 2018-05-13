@@ -1,3 +1,4 @@
+# 代码参考自李林老哥的 Python2 代码，仓库地址：https://github.com/myrual/mixin_client_demo ，特此表示感谢！！！
 # 此处是基于Python的MiXin机器人🤖程序。
 
 requirement.txt 是 基于Flask 的 MiXin 机器人的安装环境。
