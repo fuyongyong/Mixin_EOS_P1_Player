@@ -1,4 +1,4 @@
-**注：** 本文基于[李林](https://gist.github.com/myrual)老哥的[开发者接入Mixin Network说明](https://gist.github.com/myrual/64769acd3d09e9fd3ac37636d899f844) ，特此感谢！！！
+>**注：** 本文基于[李林](https://gist.github.com/myrual)的[开发者接入Mixin Network说明](https://gist.github.com/myrual/64769acd3d09e9fd3ac37636d899f844) ，特此感谢！！！
 
 # 1. 开发者自己创建一个mixin 账户
 
@@ -29,6 +29,7 @@ home_uri在机器人中的入口是在这里：
 弹出来的这个地址就是home_uri页面中的内容：
 
 ![home_uri_interface2](http://static.zybuluo.com/hitchhacker/fso25zcp7xgu1meeyx40bxht/home_uri_interface2.jpeg)
+
 
 - **（3）授权后跳转的地址：**
 
