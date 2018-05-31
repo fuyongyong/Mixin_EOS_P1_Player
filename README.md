@@ -43,8 +43,12 @@ MiXin研究资料（不断更新）：
 - IOS（官方）：https://github.com/MixinMessenger/ios-app
 - Android（官方）：https://github.com/MixinMessenger/android-app
 
-- Crossle代码（新闻类）：https://github.com/crossle/hacker-news-mixin-bot 
+- Crossle代码（新闻类）：
+
+https://github.com/crossle/hacker-news-mixin-bot 
+
 https://github.com/crossle/bishijie-news-mixin-bot 
+
 https://github.com/crossle/imeos-news-mixin-bot
 
 
