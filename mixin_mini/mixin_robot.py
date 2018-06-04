@@ -93,9 +93,9 @@ def on_message(ws, message):
 
         replayMessage(ws, msgid)
         #=====功能A：为MiXin点赞==================
-        if realData == "hi":
+        if realData == "hello":
 
-            btn = "hi!".encode('utf-8')
+            btn = "world!".encode('utf-8')
             params = {"conversation_id": data['conversation_id'], "recipient_id": data['user_id'],
                       "message_id": str(uuid.uuid4()), "category": "PLAIN_TEXT",
                       "data": base64.b64encode(btn).decode('utf-8')}
