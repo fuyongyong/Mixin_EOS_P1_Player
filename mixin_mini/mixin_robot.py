@@ -78,7 +78,6 @@ def on_message(ws, message):
     #print(msg_data)
 
     action = msg_data["action"]
-
     if action == "CREATE_MESSAGE" and 'error' not in msg_data and msg_data["data"]["conversation_id"]!="":
 
         msgid = msg_data["data"]["message_id"]
