@@ -1,9 +1,9 @@
-#=====大狗 AI 版的信息=========
-mixin_client_id = "f875e041-34b4-4edc-aed5-9e0188dd88da"
-mixin_client_secret = "a0e3e5c887001015dccc5f095860a8f9f110a60dd5125285e493eba7722ff236"
-mixin_pay_pin = '418563'
-mixin_pay_sessionid = '32411350-c368-465c-a398-1c1a50390312'
-mixin_pin_token="""eJ8XagL4JsfRtwVv2DM3hY8YjoG+P3dY4uHV5MONLzDf9Hgi+8bSLaRBPEUpc8NJjm4X60Q
+#=====需要修改的信息=========
+mixin_client_id = "f875e041-34b4-4edc-aed5-9e0188888a"
+mixin_client_secret = "a0e3e5c887001015dccc5f095860a888888885e493eba7722ff236"
+mixin_pay_pin = '418883'
+mixin_pay_sessionid = '32411350-c368-465c-a398-1c88888312'
+mixin_pin_token="""eJ8XagL4JsfRtwVv888888888888888888HV5MONLzDf9Hgi+8bSLaRBPEUpc8NJjm4X60Q
 VH7KFB5Jn4hoMXlpCDDrHobnX2pZ2RHdzjrbvP8A40rQuwWUHJoJvRN+YBOhOjC3iOVRoM3o8GBFRGjnFQo6owvLpB
 /K6QM+Azws="""
 private_key = """-----BEGIN RSA PRIVATE KEY-----
@@ -11,7 +11,7 @@ MIICXwIBAAKBgQDRP9QoPBNot4o+if2bsHBxcKcprIBRTvVfoGZp+sKcU1q/jBTH
 w2nTBu+IaBO9KTlFcUrmsiSyfMv3CUg2He+bHcWN7SI+ARz9e2cqfiZ2St5kr6cd
 76l8+HU0fmOlxq61O5QlkIgWWSKkpa2bxPc/3wHJR+4b+LvAN15PLUYsqQIDAQAB
 AoGBAJ/wZsyeJsO6zptAxC01bqz2y37qEGaVsK34H2/QMOJmQA37F4MdVYzsVzhv
-PO8wTEtM7lBpR+15wDlBygU7WoFXImQi0VFkj2OIPtL/vDb+yaiF3bLjXyfqKWhV
+PO8wTEt8888888888888888888888888888888888888888888888888XyfqKWhV
 bwXvFil2Y9ZUQUsOf7PEpqy70PfBJdbFUv1CDVfbkRumVxFRAkEA6y92TI7Dugxu
 FebsAF+YsL2A9MDZg3lqRx40QsPMz6u26zWFnOCbKo1nejGQb/8I9b9fph16aoRv
 hG4Iorf+TQJBAOPEvVBDKPhidy9RUsreFs8VzvVWO/67Ihq3cuCgB5UO8F6kRvUH
@@ -24,6 +24,7 @@ HFjGvEyNlwnfh0blMC+QFefgfDy4isn8UUwJ+/BjEN2twgE=
 
 admin_uuid = "89b67f38-b98a-4e31-a052-51e904c3ee91"
 
+#====无需修改的信息==========
 eth_asset_id="43d61dcd-e413-450d-80b8-101d5e903357"
 sc_asset_id="990c4c29-57e9-48f6-9819-7d986ea44985"
 prs_asset_id = "3edb734c-6d6f-32ff-ab03-4eb43640c758"
